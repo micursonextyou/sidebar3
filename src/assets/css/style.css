@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?tu9pd');
+  src:  url('fonts/icomoon.eot?tu9pd#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?tu9pd') format('truetype'),
+    url('fonts/icomoon.woff?tu9pd') format('woff'),
+    url('fonts/icomoon.svg?tu9pd#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-moon2:before {
+  content: "\e91a";
+}
+.icon-circulo2:before {
+  content: "\e91b";
+}
+.icon-moon:before {
+  content: "\e91c";
+}
+.icon-sun:before {
+  content: "\e91d";
+}
+.icon-circulo:before {
+  content: "\e919";
+}
+.icon-arrordown:before {
+  content: "\e918";
+}
+.icon-close:before {
+  content: "\e917";
+}
+.icon-logout:before {
+  content: "\e916";
+}
+.icon-menu1:before {
+  content: "\e915";
+}
+.icon-engrane:before {
+  content: "\e914";
+}
+.icon-analytics:before {
+  content: "\e900";
+}
+.icon-barcodescanner:before {
+  content: "\e901";
+}
+.icon-box:before {
+  content: "\e902";
+}
+.icon-box1:before {
+  content: "\e903";
+}
+.icon-boxes:before {
+  content: "\e904";
+}
+.icon-calendario:before {
+  content: "\e905";
+}
+.icon-chat:before {
+  content: "\e906";
+}
+.icon-dashboard:before {
+  content: "\e907";
+}
+.icon-dont_menu:before {
+  content: "\e908";
+}
+.icon-dont_menu_sp:before {
+  content: "\e909";
+}
+.icon-dont_menu3:before {
+  content: "\e90a";
+}
+.icon-dont_menu3_p:before {
+  content: "\e90b";
+}
+.icon-facturas:before {
+  content: "\e90c";
+}
+.icon-farctura2:before {
+  content: "\e90d";
+}
+.icon-lupa:before {
+  content: "\e90e";
+}
+.icon-packagebox:before {
+  content: "\e90f";
+}
+.icon-pen:before {
+  content: "\e910";
+}
+.icon-stock:before {
+  content: "\e911";
+}
+.icon-store:before {
+  content: "\e912";
+}
+.icon-usuarios:before {
+  content: "\e913";
+}
